@@ -86,6 +86,17 @@ Cybersecurity professional with hands-on experience in Security Operations Cente
 - Phishing URL Detection
 - Detection Engineering Labs
 
+---
+
+## Technologies
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,react,nodejs,express,mongodb,mysql,linux,bash,git,github,vscode"/>
+
+</p>
+
+---
 
 ## Areas of Interest
 
