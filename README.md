@@ -86,35 +86,6 @@ Cybersecurity professional with hands-on experience in Security Operations Cente
 - Phishing URL Detection
 - Detection Engineering Labs
 
----
-
-## GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vignesh85245&show_icons=true&theme=github_dark&hide_border=true">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vignesh85245&layout=compact&theme=github_dark&hide_border=true">
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Vignesh85245&theme=github-dark&hide_border=true">
-
-</p>
-
----
-
-## Technologies
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,react,nodejs,express,mongodb,mysql,linux,bash,git,github,vscode"/>
-
-</p>
-
----
 
 ## Areas of Interest
 
