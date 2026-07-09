@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vigneshwaran M</h1>
 
 <h3 align="center">
-Cybersecurity Enthusiast | SOC Analyst | Threat Hunter | Blue Team Learner
+Blue Teamer
 </h3>
 
 <p align="center">
